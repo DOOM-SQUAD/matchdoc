@@ -37,7 +37,7 @@ product_sku, price
 #{/[A-Z]{13}/}, #{/\$(\d)[1,2]\.\d\d}
 #{/[A-Z]{13}/}, #{/\$(\d)[1,2]\.\d\d}
 LIST
-```ruby
+```
 
 
 ## Contributing
